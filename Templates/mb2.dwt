@@ -25,13 +25,13 @@
     <td colspan="4"><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tr>
         <td width="13" height="39"><div align="center"></div></td>
-        <td width="138"><div align="center">首页</div></td>
-        <td width="138"><div align="center">塞上新景</div></td>
-        <td width="138"><div align="center">沙湖苇舟</div></td>
-        <td width="138"><div align="center">神秘西夏</div></td>
-        <td width="138"><div align="center">沙坡鸣钟</div></td>
-        <td width="138"><div align="center">须弥松涛</div></td>
-        <td width="138" align="center">西部影城</td>
+        <td width="138"><div align="center"><a href="../index.html">首页</a></div></td>
+        <td width="138"><div align="center"><a href="../ssxj.html">塞上新景</a></div></td>
+        <td width="138"><div align="center"><a href="../shwz.html">沙湖苇舟</a></div></td>
+        <td width="138"><div align="center"><a href="../smxx.html">神秘西夏</a></div></td>
+        <td width="138"><div align="center"><a href="../spmz.html">沙坡鸣钟</a></div></td>
+        <td width="138"><div align="center"><a href="../xmst.html">须弥松涛</a></div></td>
+        <td width="138" align="center"><a href="../xbyc.html">西部影城</a></td>
         <td width="42">&nbsp;</td>
       </tr>
     </table></td>
