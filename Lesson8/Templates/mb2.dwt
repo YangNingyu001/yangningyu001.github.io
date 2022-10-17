@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>宁夏风光</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="1018" border="1" align="center">
+  <tr>
+    <td width="1008" colspan="4"><table width="100%" border="0" cellpadding="0">
+      <tr>
+        <td width="367" height="188"><p align="right">宁夏风光</p>
+          <p align="right">NING XIA FENG GUANG</p>
+          <p align="right">欢迎光临我的网站！</p></td>
+        <td><img src="../images/logo-2.gif" width="634" height="230" /></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td colspan="4"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="39" align="center">&nbsp;</td>
+        <td align="center"><a href="index.html">首页</a></td>
+        <td align="center"><a href="ssxj.html">塞上新景</a></td>
+        <td align="center"><a href="shwz.html">沙湖苇舟</a></td>
+        <td align="center"><a href="smxx.html">神秘西夏</a></td>
+        <td align="center"><a href="spmz.html">沙坡鸣钟</a></td>
+        <td align="center"><a href="xmst.html">须弥松涛</a></td>
+        <td align="center"><a href="xbyc.html">西部影城</a></td>
+        <td align="center">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+  <!-- TemplateBeginEditable name="图文信息区" -->
+  <tr>
+    <td width="256" height="180">&nbsp;</td>
+    <td width="256" height="180">&nbsp;</td>
+    <td width="256" height="180">&nbsp;</td>
+    <td width="256" height="180">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="23" colspan="4">&nbsp;</td>
+  </tr>
+  <!-- TemplateEndEditable -->
+  <tr>
+    <td height="106" colspan="4"><p align="center">网站制作：马宁<br />
+    本站只为介绍宁夏的美丽风光而创建，部分内容采集自互联网，版权归原作者所有<br />
+    作者联系方式 E-mail:<a href="mailto:maning@qq.com ">maning@qq.com </a>QQ:463195760</p></td>
+  </tr>
+</table>
+</body>
+</html>
